@@ -5,3 +5,11 @@ C:\Users\idra29\source\repos\Patrones estructurales\Patrones estructurales\obj\D
 C:\Users\idra29\source\repos\Patrones estructurales\Patrones estructurales\obj\Debug\Patrones estructurales.csproj.CoreCompileInputs.cache
 C:\Users\idra29\source\repos\Patrones estructurales\Patrones estructurales\obj\Debug\Patrones estructurales.exe
 C:\Users\idra29\source\repos\Patrones estructurales\Patrones estructurales\obj\Debug\Patrones estructurales.pdb
+C:\Users\Manu\Desktop\Facultad\Programacion\Patrones-de-diseno-\Patrones estructurales\Patrones estructurales\bin\Debug\Patrones estructurales.exe.config
+C:\Users\Manu\Desktop\Facultad\Programacion\Patrones-de-diseno-\Patrones estructurales\Patrones estructurales\bin\Debug\Patrones estructurales.exe
+C:\Users\Manu\Desktop\Facultad\Programacion\Patrones-de-diseno-\Patrones estructurales\Patrones estructurales\bin\Debug\Patrones estructurales.pdb
+C:\Users\Manu\Desktop\Facultad\Programacion\Patrones-de-diseno-\Patrones estructurales\Patrones estructurales\obj\Debug\Patrones estructurales.csproj.AssemblyReference.cache
+C:\Users\Manu\Desktop\Facultad\Programacion\Patrones-de-diseno-\Patrones estructurales\Patrones estructurales\obj\Debug\Patrones estructurales.exe.config
+C:\Users\Manu\Desktop\Facultad\Programacion\Patrones-de-diseno-\Patrones estructurales\Patrones estructurales\obj\Debug\Patrones estructurales.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\Facultad\Programacion\Patrones-de-diseno-\Patrones estructurales\Patrones estructurales\obj\Debug\Patrones estructurales.exe
+C:\Users\Manu\Desktop\Facultad\Programacion\Patrones-de-diseno-\Patrones estructurales\Patrones estructurales\obj\Debug\Patrones estructurales.pdb

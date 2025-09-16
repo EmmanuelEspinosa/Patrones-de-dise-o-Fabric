@@ -47,14 +47,23 @@
     <Compile Include="Adapter\DemoImpresora.cs" />
     <Compile Include="Adapter\IImpresora.cs" />
     <Compile Include="Adapter\ImpresoraTermicaVieja.cs" />
+    <Compile Include="Decorator\DemoMensaje.cs" />
+    <Compile Include="Decorator\IMensaje.cs" />
+    <Compile Include="Decorator\MensajeConEmoji.cs" />
+    <Compile Include="Decorator\MensajeDecorator.cs" />
+    <Compile Include="Decorator\MensajeEncriptado.cs" />
+    <Compile Include="Decorator\MensajeSimple.cs" />
+    <Compile Include="Facade\DBService.cs" />
+    <Compile Include="Facade\DemoFacade.cs" />
+    <Compile Include="Facade\EmailSender.cs" />
+    <Compile Include="Facade\EmailValidator.cs" />
+    <Compile Include="Facade\UserFacade.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Decorator\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
