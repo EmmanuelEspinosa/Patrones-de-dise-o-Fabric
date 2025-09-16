@@ -1,0 +1,8 @@
+D:\Repositorios VS\Guia patrones de comportamiento\bin\Debug\Guia patrones de comportamiento.exe.config
+D:\Repositorios VS\Guia patrones de comportamiento\bin\Debug\Guia patrones de comportamiento.exe
+D:\Repositorios VS\Guia patrones de comportamiento\bin\Debug\Guia patrones de comportamiento.pdb
+D:\Repositorios VS\Guia patrones de comportamiento\obj\Debug\Guia patrones de comportamiento.csproj.AssemblyReference.cache
+D:\Repositorios VS\Guia patrones de comportamiento\obj\Debug\Guia patrones de comportamiento.csproj.CoreCompileInputs.cache
+D:\Repositorios VS\Guia patrones de comportamiento\obj\Debug\Guia patrones de comportamiento.exe
+D:\Repositorios VS\Guia patrones de comportamiento\obj\Debug\Guia patrones de comportamiento.pdb
+D:\Repositorios VS\Guia patrones de comportamiento\obj\Debug\Guia patrones de comportamiento.exe.config
